@@ -1,0 +1,14 @@
+# ignore list
+.sass-cache/
+.settings/
+dist/
+build/
+#.gitignore
+.classpath
+.project
+*.scc
+*.scssc
+*.log
+*~
+*Copy*
+*Copy.*
